@@ -1,1 +1,1 @@
-# play_bot
+# mybot1
